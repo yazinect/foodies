@@ -1,2 +1,2 @@
 # foodies
-The social network for food lovers.
+Curation of the best places for food lovers.
